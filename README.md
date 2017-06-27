@@ -2,8 +2,7 @@
 
 ## Setup:
 ```
-git clone https://github.com/yorhodes/etherscan-scraper.git
-npm install
+npm install etherscan-scraper
 ```
 
 ## Config:
