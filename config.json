@@ -1,0 +1,11 @@
+{
+	"urlEncoded": {
+		"startBlock": 0,
+		"endBlock": 0,
+		"contractAddress": "0xabc123"	
+	},
+	"desiredSums": [
+		"value",
+		"gas"
+	]
+}

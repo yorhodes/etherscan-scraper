@@ -1,0 +1,15 @@
+{
+  "name": "etherscan-scraper",
+  "version": "0.0.1",
+  "description": "Script for retrieving data from etherscan for a given contract",
+  "author": "Yorke Rhodes <yorke.rhodesiv@consensys.net>",
+  "license": "ISC",
+  "dependencies": {
+    "bn.js": "4.11.6",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  },
+  "devDependencies": {
+    "eslint-config-vidroll": "1.0.0"
+  }
+}
